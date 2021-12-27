@@ -11,7 +11,7 @@ from matplotlib import pyplot as plt
 import scipy.constants as constants
 
 r = 1.496e11 #km (1000 a.e)
-vt = 3 * 1000 #m/s # скорость тела на расстоянии r от Солнца
+vt = 3 * 1000 #m/s # скорость тела на расстоянии r от Солнц
 G = constants.G #гравитационная постоянная
 m1 = 1.98847e30 #kg #масса Солнца
 m2 = 2.2e14 #kg #масса тела
